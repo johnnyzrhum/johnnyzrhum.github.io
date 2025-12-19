@@ -7,6 +7,7 @@ categories:
 tags:
   - blog
 ---
+
 Utilized ChatGPT to generate initial image from real life picture of our family pets. Then constructed this prompt in Gemini to generate video:
 
 ```
@@ -26,7 +27,6 @@ Style inspired by Lilo and Stitch animation.
 Smooth motion, happy and festive mood.
 High quality, clean animation.
 ```
----
 
 <video controls playsinline width="50%">
   <source src="/assets/images/Boston_Terrier_Hula_Dance_Animation.mp4" type="video/mp4">
