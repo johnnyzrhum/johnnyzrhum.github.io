@@ -64,7 +64,8 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/john-dodd-84b09715"    - label: "Website"
+      url: "https://www.linkedin.com/in/john-dodd-84b09715"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "GitHub"
