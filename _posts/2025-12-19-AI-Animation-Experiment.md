@@ -3,10 +3,8 @@ title: "AI Animation Experiment: Boston Terrier Hula"
 date: 2025-12-19
 categories:
   - blog
-  - AI
 tags:
   - blog
-  - AI
 ---
 
 Utilized ChatGPT to generate initial image from real life pictures of our family pets. Then used Gemini to generate a video from the static image:
